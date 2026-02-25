@@ -1,5 +1,5 @@
 
-Przekaż zawartość tego pliku, swojej Iteracji AI, aby poznał strukturę i myśl koncepcyjną.
+Rozpoczęcie zaczyna się od przeczytania pierwszego pliku, który jest ostatnim plikiem z listy: "¡_Notatki_Deweloperskie.txt"
 
 — — —
 
